@@ -1,0 +1,8 @@
+#grid{
+    margin: auto;
+    width: 600px;
+    height: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
