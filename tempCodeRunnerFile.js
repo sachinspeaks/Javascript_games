@@ -1,4 +1,4 @@
-const computerchoice=document.getElementById('computer-choice')
-// const userchoice=document.getElementById('user-choice')
-// const resultDisplay=document.getElementById('result')
-// const possiblechoices=document.querySelectorAll('button')
+var t1=call();
+// t1();
+// let  t3=call();
+// t3();
